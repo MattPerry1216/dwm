@@ -1,0 +1,7 @@
+*.diff
+*.orig
+*.rej
+drw.o
+dwm.o
+dwm
+util.o
