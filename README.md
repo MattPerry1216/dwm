@@ -2,6 +2,8 @@
 
 ## Patches
 
+all patch code was added by hand
+
 [attachbelow](https://dwm.suckless.org/patches/attachbelow/)
 
 [fibonacci](https://dwm.suckless.org/patches/fibonacci/)
