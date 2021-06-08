@@ -25,7 +25,7 @@ static const char col_cyan[]        = "#005577"; */
 }; */
 
 /* tagging */
-static const char *tags[] = { "", "", "", "IV", "V", "VI", "VII", "VIII", "IX" };
+static const char *tags[] = { "", "●︁", "", "IV", "V", "VI", "VII", "VIII", "" };
 
 static const Rule rules[] = {
 	/* xprop(1):
